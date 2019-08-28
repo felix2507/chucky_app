@@ -25,6 +25,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         zufallsSpruchButton = findViewById(R.id.zufalls_spruch_button);
         spruchTextView = findViewById(R.id.spruch_text_view);
+
+        
+        zufallsSpruchButton.setOnClickListener(this);
     }
 
     @Override
