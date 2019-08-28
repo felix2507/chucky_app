@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lustige Chuck Norris Sprüche</string>
+    <string name="button_text">Was kann Chucky ?</string>
+    <string-array name="chucky_sprueche">
+        <item>Chuck Norris hat bis zur Unendlichkeit gezählt … 2-mal.</item>
+        <item>Chuck Norris kann schwarze Filzstifte nach Farbe sortieren.</item>
+        <item>Chuck Norris hat alle Farben erfunden. Außer Rosa! Tom Cruise hat Rosa erfunden.</item>
+        <item>Einige Leute tragen Superman Schlafanzüge. Superman trägt Chuck Norris Schlafanzüge.</item>
+        <item>Chuck Norris kann ein Feuer entfachen, indem er zwei Eiswürfel aneinander reibt.</item>
+        <item>Chuck Norris kann Drehtüren zuschlagen!</item>
+        <item>Manche Menschen können viele Liegestützen — Chuck Norris kann alle.</item>
+        <item>Chuck Norris wurde gestern geblitzt — beim Einparken.</item>
+        <item>Chuck Norris verzichtet auf seine Rechte — seine Linke ist sowieso schneller …</item>
+        <item>Chuck Norris kennt die letzte Ziffer von Pi.</item>
+        <item>Chuck Norris trinkt seinen Kaffee am liebsten schwarz. Ohne Wasser.</item>
+        <item>Chuck Norris wurde letztens von der Polizei angehalten … — Die Polizisten sind mit einer Verwarnung davon gekommen.</item>
+        <item>Chuck braucht keine Fernbedienung,der Fernseher schaltet aus Angst um.</item>
+    </string-array>
+</resources>
